@@ -1,0 +1,6 @@
+/pkg/linux_amd64
+/pkg/mod
+/docker-env/db/data
+/docker-env/docker/db/data/
+/src
+
